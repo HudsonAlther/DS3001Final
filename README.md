@@ -1,0 +1,1 @@
+Deep-Learned Handwriting Recognition (DS 3001 Final Project) — Jupyter notebooks and a saved Keras model for training, tuning, and visualizing convolutional neural networks on the EMNIST and MNIST datasets. Includes workflows for cursive-to-print conversion, cross-dataset benchmarking, and interactive learning-curve/feature-map exploration. 
